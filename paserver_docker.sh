@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 nohup broadwayd :2 &
 export GDK_BACKEND=broadway
